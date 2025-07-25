@@ -49,3 +49,8 @@ Applications that assist in planning outdoor events or travel itineraries can in
 This task serves as a classic beginner-friendly use case for learning API interaction, data parsing, and visualization — essential skills in data science and web development curricula.
 6.	Mobile and Web Apps
 Weather forecast functionality in apps (like flight apps, jogging apps, or tour guides) uses similar API integration methods.
+
+
+output:
+
+<img width="1520" height="710" alt="Image" src="https://github.com/user-attachments/assets/dba9fd84-0f84-4b9f-b083-f429bbfba80f" />
